@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Edit graffiti](https://user-images.githubusercontent.com/43025473/164353514-7dfa31b9-7a93-45ba-b54c-22b600756aa4.png)
 
+[![Jonathanrrs GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathanrrs&show_icons=true&theme=tokyonight)](https://github.com/jonathanrrs/github-readme-stats)
 
 <!--
 **Jonathanrrs/Jonathanrrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
