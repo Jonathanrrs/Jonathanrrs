@@ -1,5 +1,6 @@
 ### Hi there 👋
-![profile](https://user-images.githubusercontent.com/43025473/154189466-61edfe01-bdc0-4bd7-83bf-0651653e6fa8.png)
+![Edit graffiti](https://user-images.githubusercontent.com/43025473/164353514-7dfa31b9-7a93-45ba-b54c-22b600756aa4.png)
+
 
 <!--
 **Jonathanrrs/Jonathanrrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
